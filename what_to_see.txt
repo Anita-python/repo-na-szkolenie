@@ -1,3 +1,6 @@
 BARCELONA:
+- La Sagrada Familia
+- Placa de Gaudi
+- Museo de la Musica
 PARIS:
 ROME:
