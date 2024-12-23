@@ -1,3 +1,6 @@
 BARCELONA:
 PARIS:
+- Le Tour de Eifffel
+- La Musee du Luvre
+- Les Jardines de Versailles
 ROME:
