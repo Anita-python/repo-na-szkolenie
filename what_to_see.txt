@@ -1,4 +1,7 @@
 BARCELONA:
+- La Sagrada Familia
+- Placa de Gaudi
+- Museo de la Musica
 PARIS:
 - Le Tour de Eifffel
 - La Musee du Luvre
