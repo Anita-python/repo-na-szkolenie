@@ -1,5 +1,6 @@
 # TRAVEL
-## Places to visit
+## Places to visit 
+BARCELONA #TODO ROME, PARIS
 Vacation are planned for **May 8th, 2025 - May 15th, 2025**.
 Temperature will be between **16-21** degrees (Celsjus).
 We will visit:
