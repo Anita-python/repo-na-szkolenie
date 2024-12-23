@@ -37,8 +37,10 @@ Vacation are planned for **May 25th, 2025 - May 28th, 2025**.
 Temperature will be between **16-21** degrees (Celsjus).
 We will visit:
 1. **Coloseum**
-3. **Louvre**
-4. **Versailles Gardens**
+3. **Basilica di Santa Maria Maggiore**
+4. **Villa Borghese**
 ## Food
-1. **Les Enfants du Marché**
->Les Enfants du Marché is one of my favourite spots in Paris – great food, insane wine and a really fun atmosphere. Started by restauranteur Michael Grossman in 2019, the outdoors, casual counter dining spot has become insanely popular with industry professionals, tourists and in the know foodies. Oh and don’t be surprised if you bump into celebrities (Dua Lipa is apparently a big fan).
+1. **Da Enzo al 29**
+>A picturesque little eatery located on a quieter street in Trastevere, Da Enzo is one of the more characteristic trattorias in Rome and draws a crowd for its simple, honest fare and handful of outdoor tables. Eating here feels like a family gathering, with abundant portions expertly prepared. You can’t go wrong with anything on the menu – from carbonara and meatballs to braised artichokes and tiramisu – but show up early, or you’re in for a long wait.
+
+![enzo](https://media.timeout.com/images/106106940/1920/1080/image.webp)
