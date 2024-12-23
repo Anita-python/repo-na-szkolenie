@@ -1,3 +1,6 @@
 BARCELONA:
 PARIS:
 ROME:
+- Coloseum
+- Basilica di Santa Maria Maggiore
+- Villa Borghese
