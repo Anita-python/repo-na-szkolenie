@@ -1,5 +1,11 @@
 BARCELONA:
+- La Sagrada Familia
+- Placa de Gaudi
+- Museo de la Musica
 PARIS:
+- Le Tour de Eifffel
+- La Musee du Luvre
+- Les Jardines de Versailles
 ROME:
 - Coloseum
 - Basilica di Santa Maria Maggiore
